@@ -58,7 +58,9 @@ Any issues dealing with organizational funds must be approved by a majority vote
 
 # Article IX
 ## Referendum and Recall (Procedures and Handling)
-Any officer or advisor can be removed from their position by a majority vote of all active members and officers (excluding the officer being recalled)
+
+Any officer or advisor can be removed from their position by a majority vote of all active members and officers (excluding the officer being recalled).
+
 
 # Article X
 ## Amendments (Means of Proposal, Notice Required, Voting Requirements)
@@ -67,6 +69,12 @@ Amendments to this constitution after ratification can be proposed by any member
 
 
 # Article XI
+## Dissolution (Distribution of Assets and Intellectual Property)
+
+Should the organization be dissolved, assets and intellectual property will be donated to Clemson Computing and Information Technology of Clemson University.
+
+
+# Article XII
 ## Ratification (Requirements for Adopting This Constitution)
 
 This constitution is ratified upon a unanimous vote to ratify by at least 6 founding undergraduate members.
