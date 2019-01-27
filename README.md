@@ -30,7 +30,7 @@ Each officer position serves for one year. Nominations for the position can be s
 Officer positions are as follows:
 * President
 * Vice President
-* Level 5 Tech Support
+* System Architect
 * Treasurer
 * Secretary
 * Webmaster
