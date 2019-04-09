@@ -19,7 +19,7 @@ This organization is designed to promote knowledge of cyber defense and informat
 # Article IV
 ## Membership Requirements and Limitations
 
-Membership to this organization requires that the student be enrolled at Clemson University full time or part time. Both undergraduate and graduate level students will be allowed to join. Members will be expected to attend a minimum number of meetings and participate in events when possible. No requirements will be established regarding major or qualifications. Membership is open to all students of Clemson University who meet the requirements listed previously.
+Membership to this organization requires that the student be enrolled at Clemson University full time or part time. Both undergraduate and graduate level students will be allowed to join. Members will be required to attend a minimum of 2 meetings per semester. No requirements will be established regarding major or qualifications. Membership is open to all students of Clemson University who meet the requirements listed previously.
 
 
 # Article V
