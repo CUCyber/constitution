@@ -71,7 +71,7 @@ Amendments to this constitution after ratification can be proposed by any member
 # Article XI
 ## Dissolution (Distribution of Assets and Intellectual Property)
 
-Should the organization be dissolved, assets and intellectual property will be donated to Clemson Computing and Information Technology of Clemson University.
+ Dissolution will occur when there are no officers or advisors at the end of the Spring semester or by a unanimous vote of all advisors. Should the organization be dissolved, assets and intellectual property will be donated to Clemson Computing and Information Technology of Clemson University.
 
 
 # Article XII
