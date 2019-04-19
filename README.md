@@ -25,7 +25,7 @@ Membership to this organization requires that the student be enrolled at Clemson
 # Article V
 ## Officers (Titles, Term of Office, How and When Elected)
 
-Each officer position serves for one year. Nominations for the position can be submitted by any member beginning in April and ending at the election of the particular officer. At the last meeting of the Spring or first meeting of the Fall, the positions will be filled by a majority vote of the nominees by active members.
+Each officer position with the exception of System Architect serves until the Spring semester election following their election. Nominations for each generally elected position, that is all positions other than System Architect, can be submitted by any member beginning one month before an election and ending at the election of the particular officer. At the last meeting of the Spring semester or the last meeting of the Fall semester, the generally elected positions that are open, that is all positions other than System Architect that are open, will be filled by a majority vote of the nominees by active members. The position of System Architect will be filled by a unanimous vote of the current officers whenever the position is open.
 
 Officer positions are as follows:
 * President
