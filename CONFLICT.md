@@ -12,7 +12,7 @@ The purpose of the conflict of interest policy is to protect this tax-exempt org
 
 #### 1. Interested Person
 
-Any director, principal officer, or member of a committee with governing board delegated powers, who has a direct or indirect financial interest, as defined below, is an interested person.
+Any director, principal officer, appointed position, or member of a committee with governing board delegated powers, who has a direct or indirect financial interest, as defined below, is an interested person.
 
 #### 2. Financial Interest
 
