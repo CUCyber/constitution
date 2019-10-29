@@ -20,33 +20,28 @@ This organization is designed to promote knowledge of cyber defense and informat
 
 Membership to this organization requires that the student be enrolled at Clemson University full time or part time. Both undergraduate and graduate level students will be allowed to join. Members will be required to attend a minimum of 2 meetings per semester. No requirements will be established regarding major or qualifications. Membership is open to all students of Clemson University who meet the requirements listed previously.
 
-## Article V
-### Officers (Titles, Term of Office, How and When Elected)
+# Article V
+## Officers (Titles, Term of Office, How and When Elected)
 
-Each officer position serves until the Spring semester election following their election. Nominations for each generally elected position can be submitted by any member beginning one month before an election and ending at the election of the particular officer. At the last meeting of the Spring semester or the last meeting of the Fall semester, the generally elected positions that are open will be filled by a majority vote of the nominees by active members.
+Each officer position with the exception of System Architect serves until the Spring semester election following their election. Nominations for each generally elected position, that is all positions other than System Architect, can be submitted by any member beginning one month before an election and ending at the election of the particular officer. At the last meeting of the Spring semester or the last meeting of the Fall semester, the generally elected positions that are open, that is all positions other than System Architect that are open, will be filled by a majority vote of the nominees by active members. The position of System Architect will be filled by a unanimous vote of the current officers whenever the position is open.
 
 Officer positions are as follows:
-
 * President
 * Vice President
+* System Architect
 * Treasurer
 * Secretary
-* Competition and Events Manager
-* Training Manager
-
-Should an officer cede their position, they are relieved of all duties, and their position is to be filled at the next meeting by a snap election.
+* Webmaster
 
 ## Article VI
 ### Appointed Positions (Titles, Term of Office, How Selected)
 
 Appointed positions are purely functional in nature, and do not grant the rights and privileges of officers.
 
-Each appointed position, with the exception of Lab Administrator, serves at-will of the board of Officers, is appointed by 2/3 majority of Officers' approval, and is relieved via graduation or 2/3 majority of sitting Officers' approval. The position of Lab Administrator will be filled by a unanimous vote of the current officers and advisors, relieved only via graduation or unanimous vote of current officers and advisors.
+Each appointed position serves at-will of the board of Officers, is appointed by 2/3 majority of Officers' approval, and is relieved via graduation or 2/3 majority of sitting Officers' approval.
 
 Appointed positions are as follows:
 
-* Lab Administrator
-* Website Administrator
 * Social Event Manager
 * CyberRange Project Manager
 * Weekly Meeting Manager
