@@ -34,6 +34,8 @@ Officer positions are as follows:
 * Treasurer
 * Secretary
 * Webmaster
+* Competition and Events Manager
+* Training Manager
 
 
 # Article VI
