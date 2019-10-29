@@ -34,7 +34,7 @@ Officer positions are as follows:
 * Competition and Events Manager
 * Training Manager
 
-Should an officer be unable to fulfill their duties due to health issues, they are relieved of their position, and their position is to be filled at the next meeting by a snap election.
+Should an officer cede their position, they are relieved of all duties, and their position is to be filled at the next meeting by a snap election.
 
 ## Article VI
 ### Appointed Positions (Titles, Term of Office, How Selected)
