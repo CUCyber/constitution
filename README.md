@@ -39,6 +39,8 @@ Should an officer cede their position, they are relieved of all duties, and thei
 ## Article VI
 ### Appointed Positions (Titles, Term of Office, How Selected)
 
+Appointed positions are purely functional in nature, and do not grant the rights and privileges of officers.
+
 Each appointed position, with the exception of Lab Administrator, serves at-will of the board of Officers, is appointed by 2/3 majority of Officers' approval, and is relieved via graduation or 2/3 majority of sitting Officers' approval. The position of Lab Administrator will be filled by a unanimous vote of the current officers and advisors, relieved only via graduation or unanimous vote of current officers and advisors.
 
 Appointed positions are as follows:
