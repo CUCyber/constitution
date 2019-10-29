@@ -51,7 +51,7 @@ Appointed positions are as follows:
 * Blue Team Trainer
 * Red Team Trainer
 
-Should an appointee be unable to fulfill their duties due to health issues, they are relieved of their duties, and their position is to remain vacant until another is appointed by the Officers.
+Should an appointee cede their position, such is to remain vacant until another is appointed by the Officers.
 
 ## Article VII
 ### Advisor (Term of Service, How Selected)
