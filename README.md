@@ -38,7 +38,7 @@ Officer positions are as follows:
 
 Appointed positions are purely functional in nature, and do not grant the rights and privileges of officers.
 
-Each appointed position serves at-will of the board of Officers, is appointed by 2/3 majority of Officers' approval, and is relieved via graduation or 2/3 majority of sitting Officers' approval.
+Each appointed position serves at-will of the board of Officers, is appointed by 2/3 majority of Officers' approval, and is relieved via graduation or 2/3 majority of sitting Officers' approval. Eligibility for appointed position requires active membership.
 
 Appointed positions are as follows:
 
