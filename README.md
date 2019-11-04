@@ -36,19 +36,17 @@ Officer positions are as follows:
 ## Article VI
 ### Appointed Positions (Titles, Term of Office, How Selected)
 
+Appointed positions may be filled by none or more active members, including officers. An active member can hold multiple appointed positions.
+
 Appointed positions are purely functional in nature, and do not grant the rights and privileges of officers.
 
-Each appointed position serves at-will of the board of Officers, is appointed by 2/3 majority of Officers' approval, and is relieved via graduation or 2/3 majority of sitting Officers' approval. Eligibility for appointed position requires active membership.
+Appointed positions report to the Vice President, and may be expected to report and/or work alongside officers as needed by their position.
 
-Appointed positions are as follows:
+Appointed positions may resign their position at any time by providing written notice of resignation to the officers.
 
-* Social Event Manager
-* CyberRange Project Manager
-* Weekly Meeting Manager
-* Blue Team Trainer
-* Red Team Trainer
+The president, with consent of a 2/3 majority of officers' approval, may appoint such positions as they deem necessary and proper for the functioning of the organization. Any member holding an appointed position may be relieved via graduation or 2/3 majority of sitting Officers' approval. Once appointed, the member appointed must assent to their appointment prior to taking office.
 
-Should an appointee cede their position, such is to remain vacant until another is appointed by the Officers.
+Should an appointee cede their position, such is to remain vacant until another is appointed by the current officers.
 
 ## Article VII
 ### Advisor (Term of Service, How Selected)
