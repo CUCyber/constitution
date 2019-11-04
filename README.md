@@ -35,7 +35,7 @@ Officer positions are as follows:
 * Secretary
 * Webmaster
 
-Should an officer cede their position, such is to filled by a snap election at the next weekly meeting.
+Should an officer cede their position, such is to filled by an election at the next weekly meeting.
 
 
 # Article VI
