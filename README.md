@@ -34,7 +34,7 @@ Officer positions are as follows:
 ## Article VI
 ### Appointed Positions (Titles, Term of Office, How Selected)
 
-Appointed positions may be filled by none or more active members, including officers. An active member can hold multiple appointed positions.
+Appointed positions, excepting the Lab Administrator, may be filled by none or more active members, including officers. An active member can hold multiple appointed positions.
 
 Appointed positions are purely functional in nature, and do not grant the rights and privileges of officers.
 
@@ -42,9 +42,11 @@ Appointed positions report to the Vice President, and may be expected to report 
 
 Appointed positions may resign their position at any time by providing written notice of resignation to the officers.
 
-The president, with consent of a 2/3 majority of officers' approval, may appoint such positions as they deem necessary and proper for the functioning of the organization. Any member holding an appointed position may be relieved via graduation, resignation, or 2/3 majority of sitting Officers' approval. Once appointed, the member appointed must assent to their appointment prior to taking office.
+The president, with consent of a 2/3 majority of officers' approval, excepting the Lab Administrator position, may appoint such positions as they deem necessary and proper for the functioning of the organization. Any member holding an appointed position, excepting the Lab Administrator, may be relieved via graduation, resignation, or 2/3 majority of sitting Officers' approval. Once appointed, the member appointed must assent to their appointment prior to taking office.
 
-Should an appointee cede their position, such is to remain vacant until another is appointed by the current officers.
+Should an appointee, excepting the Lab Administrator, cede their position, such is to remain vacant until another is appointed by the current officers.
+
+The Lab Administrator appointed position must be filled by one active member at any point, and is appointed by unanimous vote of sitting Officers. Should the Lab Administrator cede their position, this position is to be filled by the next meeting.
 
 ## Article VII
 ### Advisor (Term of Service, How Selected)
