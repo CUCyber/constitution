@@ -35,8 +35,12 @@ Officer positions are as follows:
 * Secretary
 * Webmaster
 
+Should an officer cede their position, such is to be filled by an election at the next weekly meeting.
+
+=======
 ## Article VI
 ### Appointed Positions (Titles, Term of Office, How Selected)
+
 
 Appointed positions may be filled by none or more active members, including officers. An active member can hold multiple appointed positions.
 
