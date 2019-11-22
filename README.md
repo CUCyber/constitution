@@ -25,24 +25,20 @@ Membership to this organization is open to all students without regard to abilit
 
 Officer positions can only be fulfilled by one active member at a given time, and an active member can only hold one officer position at a given time.
 
-Each officer position with the exception of System Architect serves until the Spring semester election following their election. Nominations for each generally elected position, that is all positions other than System Architect, can be submitted by any member beginning one month before an election and ending at the election of the particular officer. At the last meeting of the Spring semester or the last meeting of the Fall semester, the generally elected positions that are open, that is all positions other than System Architect that are open, will be filled by a majority vote of the nominees by active members. The position of System Architect will be filled by a unanimous vote of the current officers whenever the position is open.
+Each officer position serves until the Spring semester election following their election. Nominations for each generally elected position can be submitted by any member beginning one month before an election and ending at the election of the particular officer. At the last meeting of the Spring semester or the last meeting of the Fall semester, the generally elected positions that are open will be filled by a majority vote of the nominees by active members.
 
 Officer positions are as follows:
 * President
 * Vice President
-* System Architect
 * Treasurer
 * Secretary
-* Webmaster
 * Competition and Events Manager
 * Training Manager
 
 Should an officer cede their position, such is to be filled by an election at the next weekly meeting.
 
-=======
 ## Article VI
 ### Appointed Positions (Titles, Term of Office, How Selected)
-
 
 Appointed positions may be filled by none or more active members, including officers. An active member can hold multiple appointed positions.
 
@@ -52,7 +48,11 @@ Appointed positions report to the Vice President, and may be expected to report 
 
 Appointed positions may resign their position at any time by providing written notice of resignation to the officers.
 
-The president, with consent of a 2/3 majority of officers' approval, may appoint such positions as they deem necessary and proper for the functioning of the organization. Any member holding an appointed position may be relieved via graduation, resignation, or 2/3 majority of sitting Officers' approval. Once appointed, the member appointed must assent to their appointment prior to taking office.
+The president, with consent of a 2/3 majority of officers' approval and barring the Lab Administrator, may appoint such positions as they deem necessary and proper for the functioning of the organization. The Lab Administrator must be appointed by the president with unanimous approval of the officers and advisors. Any member holding an appointed position may be relieved via graduation, resignation, or 2/3 majority of sitting Officers' approval. Once appointed, the member appointed must assent to their appointment prior to taking office.
+
+The list of appointed positions is to remain dynamic, and thus not defined in the constitution, with the following exceptions:
+
+- Lab Administrator
 
 Should an appointee cede their position, such is to remain vacant until another is appointed by the current officers.
 
