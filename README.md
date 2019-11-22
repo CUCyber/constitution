@@ -34,6 +34,8 @@ Officer positions are as follows:
 * Treasurer
 * Secretary
 * Webmaster
+* Competition and Events Manager
+* Training Manager
 
 Should an officer cede their position, such is to be filled by an election at the next weekly meeting.
 
