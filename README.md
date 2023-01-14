@@ -92,3 +92,110 @@ Dissolution will occur when there are no officers or advisors at the end of the 
 ### Ratification (Requirements for Adopting This Constitution)
 
 This constitution is ratified upon a unanimous vote to ratify by at least 6 founding undergraduate members.
+
+## Article XIV
+### Non-Discrimination & Anti-Harassment Policy
+
+
+This is a printed version of the online Non-Discrimination & Anti-Harassment Policy. It was printed on 01/13/2023 at
+18:46. Information is current as of date and time of printing.
+
+#### 1. Purpose
+
+
+1.1. This policy of Non-Discrimination is intended to meet Clemson University’s responsibilities
+under Titles VI and VII of the Civil Rights Act 1964, the Pregnancy Discrimination Act of 1978,
+Title IX of the Education Amendments of 1972, Sections 503 and 504 of the Rehabilitation Act
+of 1973, the Americans with Disabilities Act of 1990, the Age Discrimination in Employment Act
+of 1967, the Age Discrimination Act of 1975, the Vietnam Veterans Readjustment Assistance
+Act of 1974, the Genetic Information Nondiscrimination Act of 2008, the Violence Against
+Women Act, the SC Pregnancy Accommodations Act and applicable provisions of the South
+Carolina Human Affairs Law.
+
+#### 2. Scope
+
+
+2.1. This policy applies to all University students, employees, affiliates, and visitors.
+
+#### 3. Policy Statement
+
+
+3.1. Clemson prohibits discrimination, including harassment, of any employee, student, guest or
+visitor because of race, color, religion, sex, sexual orientation, gender, gender identity,
+pregnancy (including childbirth, or related medical condition), national origin, age, disability,
+veteran’s status, genetic information, or any other personal characteristic protected under
+applicable federal or state law.
+
+
+3.2. Clemson University will respond promptly to all complaints of discrimination, harassment,
+or retaliation.
+
+
+3.2.1. Any person, regardless of position or title, who is determined to have engaged in
+discrimination, harassment or retaliation as prohibited by this policy will be subject to
+prompt and appropriate corrective action, up to and including dismissal or termination
+from the University, or in the case of visitors, exclusion from University property and/or
+programs
+
+
+3.3. Clemson also prohibits retaliation against any person because the person filed a complaint
+of discrimination or because the person participated in any manner in the investigation and
+resolution of a complaint of discrimination or harassment
+
+#### 4. Definitions
+
+
+4.1. Discrimination : treating a person or group of persons less advantageously than another
+
+
+
+person or group of persons because of one or more of the protected characteristics listed above.
+Discrimination can manifest itself in many forms, including denying or excluding a person or a
+group of persons from participation in or receiving the benefits of any program or activity of the
+University, including employment decisions, because of one or more of the protected
+characteristics specified above.
+
+
+4.2. Harassment : unwelcome verbal or physical conduct directed toward a person or group of
+persons motivated by a protected characteristic that unreasonably interferes with the person’s
+work or educational performance or creates an intimidating or hostile work or educational
+environment. Examples may include, but are not limited to, epithets, slurs, and jokes.
+
+
+4.3. Sexual harassment : means unwelcome verbal or physical conduct of a sexual nature.
+Examples may include, but are not limited to, sexual advances, requests for sexual favors,
+touching, jokes, comments, and sexual violence.
+
+#### 5. Additional Resources
+
+
+5.1. Reporting and Inquiry Contact Information
+
+
+5.2. Policy and Procedures Related to Sexual Harassment and Sexual Violence
+
+
+5.3. Procedures for Resolution of Discrimination/Harassment/Retaliation Complaints Against
+Employees (PDF).
+
+
+5.4. Student Code of Conduct
+
+
+5.5. Employee Incident Reporting Form
+
+#### 6. Responsible Department
+
+
+6.1. 5016 - Office of Inclusion and Equity, Office of Access and Equity, 864-656-3181
+
+#### 7. Approval & Revision History
+
+
+7.1. President Approval: 08/15/2022
+
+
+7.2. Last Date of Revision: 09/28/2020
+
+
+7.3. Originally Issued: 12/17/2018
